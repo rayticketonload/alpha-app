@@ -12,7 +12,7 @@ const App = () => (
       wrapperCol={{ span: 8 }}
     >
       <InputNumber min={1} max={10} defaultValue={3} />
-      <span className="ant-form-text"> 台机器</span>
+      <span className="ant-form-text">台机器</span>
       <a href="https://ant.design">链接文字</a>
     </Form.Item>
     <Form.Item
